@@ -7517,7 +7517,7 @@ var $async$ado=A.a1(function(c,d){if(c===1)return A.Y(d,r)
 while(true)switch(s){case 0:o=$.agE
 if(o!=null){o=o.hT$
 o===$&&A.b()
-o.sKE(0,A.aF(["Accept","application/json"],t.N,t.z))}o=$.agE
+o.sKE(0,A.aF(["Accept","application/json","Access-Control-Allow-Origin","*"],t.N,t.z))}o=$.agE
 if(o==null)o=null
 else{p=A.as1()
 p.a="POST"
